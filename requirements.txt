@@ -4,3 +4,4 @@ matplotlib
 flask
 keras
 scikit-learn
+tensorflow

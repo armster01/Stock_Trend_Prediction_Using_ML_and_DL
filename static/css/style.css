@@ -1,0 +1,13 @@
+.container {
+    max-width: 1200px;
+    margin-top: 50px;
+}
+.chart-container {
+    margin-top: 30px;
+}
+.table-responsive {
+    margin-top: 20px;
+}
+.download-link {
+    margin-top: 20px;
+}
